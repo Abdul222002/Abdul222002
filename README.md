@@ -96,15 +96,11 @@ Passionate about modern web development, automation, and AI integration. Current
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Abdul222002&theme=dark&hide_border=true&card_width=800)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Abdul222002&theme=dark&hide_border=true&card_width=495)](https://git.io/streak-stats)
 
-![Abdul's GitHub Stats](https://github-readme-stats-git-master-grubersjoes.vercel.app/api?username=Abdul222002&show_icons=true&theme=dark&hide_border=true)
+![Abdul's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Abdul222002&show_icons=true&theme=dark&hide_border=true&card_width=495)
 
-![Top Languages](https://github-readme-stats-git-master-grubersjoes.vercel.app/api/top-langs/?username=Abdul222002&layout=compact&theme=dark&hide_border=true)
-
-![Abdul's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Abdul222002&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abdul222002&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abdul222002&layout=compact&theme=dark&hide_border=true&card_width=495&langs_count=8)
 
 </div>
 
